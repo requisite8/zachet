@@ -1,6 +1,6 @@
 1) Oleg
 2) нет такой
-3) java
+3) java а изучали первым kotlin 
 4) 
 1)a b 
 2)b c
